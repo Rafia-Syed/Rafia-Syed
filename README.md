@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **more abt flutter,firebase and state management**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/rafia-asim-6435452b4/](https://www.linkedin.com/in/rafia-asim-6435452b4/)
+- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/rafia-asim-6435452b4/](https://www.linkedin.com/in/rafia-asim-flutter)
 
 - 💬 Ask me about **Flutter**
 
